@@ -38,3 +38,7 @@ Bu projede hedeflenen başlıca kazanımlar:
 **Tailwind CSS** : Utility-first sınıflar ile hızlı ve etkili stil uygulamaları
 
 
+
+
+
+
