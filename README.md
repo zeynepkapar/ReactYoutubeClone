@@ -29,16 +29,18 @@ Bu projede hedeflenen başlıca kazanımlar:
 
 ##  Kullanılan Teknolojiler
 
-**React** : Bileşen tabanlı kullanıcı arayüzü oluşturmak için
-**axios** : YouTube API ile HTTP istekleri yapmak için
-**react-router-dom** : Çok sayfalı yapı ve yönlendirme sistemi
-**react-player** : YouTube videolarını yerleştirmek ve oynatmak için
-**millify** : Büyük sayıları (1.2K, 3.4M gibi) kısaltmak için
-**react-icons** : Modern ve özelleştirilebilir ikon desteği
-**Tailwind CSS** : Utility-first sınıflar ile hızlı ve etkili stil uygulamaları
+- **React** : Bileşen tabanlı kullanıcı arayüzü oluşturmak için
+- **axios** : YouTube API ile HTTP istekleri yapmak için
+- **react-router-dom** : Çok sayfalı yapı ve yönlendirme sistemi
+- **react-player** : YouTube videolarını yerleştirmek ve oynatmak için
+- **millify** : Büyük sayıları (1.2K, 3.4M gibi) kısaltmak için
+- **react-icons** : Modern ve özelleştirilebilir ikon desteği
+- **Tailwind CSS** : Utility-first sınıflar ile hızlı ve etkili stil uygulamaları
 
 
+# Gif
 
+![youtubeclone](https://github.com/user-attachments/assets/9779606c-9f5d-4f63-b5b7-e9089aa3477d)
 
 
 
